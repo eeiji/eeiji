@@ -74,5 +74,3 @@ Sou o Leandro Eiji Hashimoto, tenho 22 anos, atualmente estou cursando Gestão d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
----
