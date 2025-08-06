@@ -1,7 +1,7 @@
-# 👩🏻‍💻 Leandro Hashimoto
+# 👩🏻‍💻 Leandro Eiji Hashimoto
 ---
 
-Sou o Leandro Eiji Hashimoto, tenho 22 anos, atualmente estou cursando Gestão da Tecnologia da Informação no SENAC. Apaixonado por tecnologia e procurando me desenvolver na área de dados.
+Natural de São Paulo, tenho 22 anos, atualmente cursando Gestão da Tecnologia da Informação no SENAC. Apaixonado por tecnologia e procurando me desenvolver na área de dados.
 
 <p align="left">
     <a href="https://github.com/eeiji?tab=repositories&sort=stargazers">
